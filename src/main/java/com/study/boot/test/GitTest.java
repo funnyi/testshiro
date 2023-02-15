@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("Hello Git");
         System.out.println("Hello Git2");
         System.out.println("这里是hot-fix写的");
+        System.out.println("hotfix的代码冲突");
     }
 }
