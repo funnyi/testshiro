@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("合并冲突master");
         System.out.println("hotfix的代码冲突");
         System.out.println("本地库测试一下push代码");
+        System.out.println("使用ssh来推送一下");
     }
 }
